@@ -134,7 +134,7 @@ _I_ происходит поиск двух ближайших дескрипт
 
 Примеры:
 
-![Alt text](images/results/MT_merge.jpg?raw=true "Результаты алгоритма match template")
+![Alt text](images/results/MT_merge.png?raw=true "Результаты алгоритма match template")
 
 <br />
 
@@ -149,7 +149,7 @@ _I_ происходит поиск двух ближайших дескрипт
 
 Сомнительные результаты:
 
-![Alt text](images/results/SIFT_bad_merge.jpg?raw=true "Результаты алгоритма SIFT")
+![Alt text](images/results/SIFT_bag_merge.jpg?raw=true "Результаты алгоритма SIFT")
 
 <br />
 
